@@ -1,0 +1,7 @@
+{
+  "name": "claude-debug-and-refactor-skills-plugin",
+  "version": "1.0.0",
+  "description": "45 framework-specific debugging and refactoring skills for Claude Code",
+  "author": "snakeo",
+  "skills": ["skills/*"]
+}
