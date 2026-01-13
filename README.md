@@ -4,23 +4,15 @@
 
 ## Installation
 
-### Option 1: Plugin Install (Recommended)
-
-```bash
-# Step 1: Add the marketplace
-/plugin marketplace add snakeo/claude-debug-and-refactor-skills-plugin
-
-# Step 2: Install the plugin
-/plugin install debug-and-refactor@snakeo-skills
-```
-
-### Option 2: Git Clone
+### Option 1: Git Clone (Recommended)
 
 ```bash
 git clone https://github.com/snakeo/claude-debug-and-refactor-skills-plugin.git ~/.claude/plugins/debug-and-refactor
 ```
 
-### Option 3: Manual Copy
+Then restart Claude Code.
+
+### Option 2: Manual Copy
 
 Copy the `skills/` directory contents to `~/.claude/skills/`
 
