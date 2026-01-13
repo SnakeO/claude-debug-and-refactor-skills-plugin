@@ -1,7 +1,9 @@
 {
-  "name": "claude-debug-and-refactor-skills-plugin",
+  "name": "debug-and-refactor",
   "version": "1.0.0",
   "description": "45 framework-specific debugging and refactoring skills for Claude Code",
-  "author": "snakeo",
-  "skills": ["skills/*"]
+  "author": {
+    "name": "snakeo"
+  },
+  "skills": ["./skills/*"]
 }
