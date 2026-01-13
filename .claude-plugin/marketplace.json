@@ -1,0 +1,16 @@
+{
+  "name": "snakeo-skills",
+  "owner": {
+    "name": "snakeo"
+  },
+  "plugins": [
+    {
+      "name": "debug-and-refactor",
+      "source": {
+        "source": "local",
+        "path": "."
+      },
+      "description": "45 framework-specific debugging and refactoring skills for Claude Code"
+    }
+  ]
+}
